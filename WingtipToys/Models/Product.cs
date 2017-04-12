@@ -22,4 +22,3 @@ namespace WingtipToys.Models
         public virtual Category Category { get; set; }
     }
 }
-}
